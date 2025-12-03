@@ -1,0 +1,5 @@
+{
+  "name": "Jewelry AI Enhancer",
+  "description": "An AI-powered tool to enhance jewelry images. Upload a picture of a pendant set, and the AI generates four high-quality, realistic photos with various customization options for backgrounds, lighting, and display styles.",
+  "requestFramePermissions": []
+}
